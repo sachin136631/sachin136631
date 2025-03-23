@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **M.E.R.N stack**
 
-- Intern at Dataequinox
+- Intern at **Dataequinox**
 
 - 💬 Ask me about **mern stack development**
 
