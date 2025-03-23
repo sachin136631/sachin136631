@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning **M.E.R.N stack**
 
+- Intern at Dataequinox
+
 - 💬 Ask me about **mern stack development**
 
 - 📫 How to reach me **sachumanu002@gmail.com**
